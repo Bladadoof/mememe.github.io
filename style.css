@@ -1,0 +1,84 @@
+h1{
+  font-size: 120px
+  font-family: monospace;
+  color: #D9FFF7;
+margin: 0px;
+padding-top: 10px;
+float: left;
+clear: both;
+}
+h2{
+  font-size: 26px;
+  margin: 0px;
+}
+h3{
+  font-size: 50px;
+  font-family: cursive;
+  margin: 0px;
+  color: #fff;
+}
+body{
+  margin: 0px;
+}
+#header{
+  background-color: #4300FF;
+  height: 133px;
+}
+#menu{
+  background-color: #C3FDBF;
+  width: 100px;
+  position: sticky;
+  top: 0px;
+}
+#content{
+  background-color: #FFC5E2;
+  padding-left: 110px;
+height: 1000px;
+margin-top: -168px;
+}
+#footer{
+  background-color: black;
+  height: 70px;
+}
+#content2{
+  padding-left: 110px;
+height: 1000px;
+margin-top: -168px;
+background-color: #11FF00;
+}
+#me{
+  width: 100px;
+  float: left;
+  padding-left: 0px;
+}
+#me2{
+width: 200px;
+}
+#bleh{
+  width: 300px;
+}
+.column{
+  float: left;
+  padding: 15px;
+}
+.vertical-menu {
+  width: 200px;
+  margin-bottom: 0px;
+}
+
+.vertical-menu a {
+  background-color: #C3FDBF;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
+.vertical-menu a:hover {
+  background-color: #89FD81;
+}
+
+.vertical-menu a.active {
+  background-color: #04FC99;
+  color: white;
+}
